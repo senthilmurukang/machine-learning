@@ -1,5 +1,5 @@
 # machine-learning
-This is learn machine learning by teaching a machine to learn. It uses Python(3.6.3) and Tensorflow(1.4.0) to generate machine learning models.
+This is to learn machine learning by teaching a machine to learn. It uses Python(3.6.3) and Tensorflow(1.4.0) to generate machine learning models.
 
 This project uses Anaconda(5.0.1) for isolating machine learning packages from other python packages in a virtual environment.
 
