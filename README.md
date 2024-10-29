@@ -14,3 +14,8 @@ Steps to install tensor flow:
 -   Use "conda create -n machine-learning pytorch torchvision python=3.12.7 anaconda" to create a virtual environment
 -   Navigate to the project folder and use "activate machine-learning" to activate the virtual environment
 -   You are done, Happy learning.
+
+## Additional packages
+
+    1.  Tokenization
+        1. NLTK - "conda install nltk"
